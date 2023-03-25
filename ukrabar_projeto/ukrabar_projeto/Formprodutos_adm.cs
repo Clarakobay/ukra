@@ -19,13 +19,22 @@ namespace ukrabar_projeto
 
         private void Formprodutos_adm_Load(object sender, EventArgs e)
         {
-
+          
+            
+             
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
            Form_sobremesa sobremesa= new Form_sobremesa();
             sobremesa.ShowDialog();
+            this.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Formcadastro cadastro = new Formcadastro();
+            cadastro.ShowDialog();
             this.Close();
         }
     }
