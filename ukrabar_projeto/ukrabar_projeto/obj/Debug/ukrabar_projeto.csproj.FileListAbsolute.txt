@@ -11,3 +11,4 @@ C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\u
 C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.pdb
 C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.Formlogin.resources
 C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.Formprodutos_adm.resources
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.Form_sobremesa.resources

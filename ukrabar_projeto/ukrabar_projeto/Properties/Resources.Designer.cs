@@ -79,5 +79,15 @@ namespace ukrabar_projeto.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2023_03_25_at_09_56_10 {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2023-03-25 at 09.56.10", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

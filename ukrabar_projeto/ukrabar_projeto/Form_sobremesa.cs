@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ukrabar_projeto
 {
-    public partial class Formprodutos_adm : Form
+    public partial class Form_sobremesa : Form
     {
-        public Formprodutos_adm()
+        public Form_sobremesa()
         {
             InitializeComponent();
-        }
-
-        private void Formprodutos_adm_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
