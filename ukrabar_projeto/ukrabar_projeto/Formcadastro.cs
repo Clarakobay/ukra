@@ -24,9 +24,17 @@ namespace ukrabar_projeto
 
         private void entrarcliente_Click(object sender, EventArgs e)
         {
-            Formcadastro cadastro = new Formcadastro();
+            Formlogin cadastro = new Formlogin();
             cadastro.ShowDialog();
+            this.Close();
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Formprodutos_adm cadastro = new Formprodutos_adm();
+            cadastro.ShowDialog();
+            this.Close();
         }
     }
 }

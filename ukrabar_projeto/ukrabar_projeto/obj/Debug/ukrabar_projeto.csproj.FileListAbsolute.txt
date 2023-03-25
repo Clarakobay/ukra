@@ -1,0 +1,13 @@
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\bin\Debug\ukrabar_projeto.exe.config
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\bin\Debug\ukrabar_projeto.exe
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\bin\Debug\ukrabar_projeto.pdb
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.Formcadastro.resources
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.exe
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.pdb
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.Formlogin.resources
+C:\Users\Aluno\Documents\GitHub\ukra\ukrabar_projeto\ukrabar_projeto\obj\Debug\ukrabar_projeto.Formprodutos_adm.resources

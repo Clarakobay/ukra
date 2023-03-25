@@ -52,10 +52,28 @@
     <Compile Include="Formcadastro.Designer.cs">
       <DependentUpon>Formcadastro.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlogin.Designer.cs">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formprodutos_adm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formprodutos_adm.Designer.cs">
+      <DependentUpon>Formprodutos_adm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Formcadastro.resx">
       <DependentUpon>Formcadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlogin.resx">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formprodutos_adm.resx">
+      <DependentUpon>Formprodutos_adm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
