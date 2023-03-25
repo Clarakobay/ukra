@@ -21,5 +21,12 @@ namespace ukrabar_projeto
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+           Form_sobremesa sobremesa= new Form_sobremesa();
+            sobremesa.ShowDialog();
+            this.Close();
+        }
     }
 }
