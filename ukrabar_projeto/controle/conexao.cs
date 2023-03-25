@@ -28,12 +28,12 @@ namespace controle
     }
 
     public int cadastrar(string[] campos string[] valores, string SQLinsert)
-        
-        }
-int registro = 1 -;
-try 
 
-}
+    {        
+int registro = 1 -;
+        try
+
+        { 
    conn = Getconexao();
 conn.Open();
 mysqlcomand cmd = new mysqlcomand(SQLInsert, CONN);
@@ -41,7 +41,11 @@ cmd. comandType = comandType.text
     cmd.ComandText= SQLInsert 
     for(int i =0; valores.length; i++)
 {
-    cmd 
+                cmd.Parameters.AddWithValue(campos[i].valores[i]);
+                
 }
-   
+   registro = cmd ExecuteNonQuery();
+            return registro;
+
     End Class
+}

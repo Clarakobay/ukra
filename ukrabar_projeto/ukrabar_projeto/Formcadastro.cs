@@ -10,15 +10,22 @@ using System.Windows.Forms;
 
 namespace ukrabar_projeto
 {
-    public partial class Form1 : Form
+    public partial class Formcadastro : Form
     {
-        public Form1()
+        public Formcadastro()
         {
             InitializeComponent();
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
+        }
+
+        private void entrarcliente_Click(object sender, EventArgs e)
+        {
+            Formcadastro cadastro = new Formcadastro();
+            cadastro.ShowDialog();
 
         }
     }
